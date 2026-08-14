@@ -131,7 +131,7 @@ img {
     overflow: hidden;
     background:
         linear-gradient(120deg, rgba(4, 54, 41, .95), rgba(11, 93, 69, .72)),
-        url("../images/school.jpeg") center/cover no-repeat;
+        url("images/school.jpeg") center/cover no-repeat;
 }
 
 .hero-overlay {
